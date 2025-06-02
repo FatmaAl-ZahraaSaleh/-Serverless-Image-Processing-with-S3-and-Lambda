@@ -1,2 +1,1 @@
-# Serverless-Image-Processing-with-S3-and-Lambda
-
+# Serverless REST API with DynamoDB and API Gateway
